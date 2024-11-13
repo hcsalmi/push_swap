@@ -4,7 +4,7 @@ A Hive Helsinki school project. Keywords: C, Sorting algorithms, Data sorting
 The gist of it:
 This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, you will have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting.
 
-More specifically:
+More specifically:<br />
 • You have 2 stacks named A and B.<br />
 • At the beginning stack A contains a random amount of negative and/or positive numbers(no duplicates). Stack B is empty.<br />
 • The goal is to sort in ascending order numbers into stack A. Following operations are allowed:<br />
